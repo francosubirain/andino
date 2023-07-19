@@ -1,0 +1,9 @@
+
+.colorCartButton {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: brown;
+    /* size: 80px; (elimina esta línea) */
+  }
+  
